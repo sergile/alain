@@ -1,0 +1,45 @@
+{
+  "name": "alain",
+  "version": "0.1.0",
+  "description": "Need a product name? Ask alain!",
+  "main": "index.js",
+  "bin": {
+    "alain": "cli.js"
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nexdrew/alain.git"
+  },
+  "keywords": [
+    "app",
+    "name",
+    "alain",
+    "sergile",
+    "marketing",
+    "product",
+    "fun",
+    "silly",
+    "yusss!"
+  ],
+  "author": "nexdrew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nexdrew/alain/issues"
+  },
+  "homepage": "https://github.com/nexdrew/alain#readme",
+  "dependencies": {
+    "es6-promise": "^3.0.2",
+    "random-int": "^1.0.0",
+    "unique-random-array": "^1.0.0",
+    "yargonaut": "^1.1.2",
+    "yargs": "^3.29.0"
+  },
+  "devDependencies": {
+    "jsonfile": "^2.2.3",
+    "linebyline": "^1.1.0",
+    "standard": "^5.3.1"
+  }
+}

@@ -1,0 +1,877 @@
+[
+  {
+    "word": "Agile",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Alert",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Alpha",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Asset",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Assist",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Base",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Best",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Beta",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Better",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Big",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Books",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Boss",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Bread",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Buster",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Button",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Buy",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Buzz",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Cache",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Cam",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Cash",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Catch",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Cell",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Certa",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Cloud",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Code",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Compu",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Control",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Cool",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Con",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Cor",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Craft",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Crime",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Crumb",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Cyber",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Cycle",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Dark",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Data",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Day",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Double",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Down",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Dream",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Drill",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Drive",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Driver",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "e-",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Extra",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Fair",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Far",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Fast",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Feed",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Fence",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Fire",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Fix",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Fleet",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Flex",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Fly",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Form",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Fuel",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Gate",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Gear",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Geo",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Get",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Go",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Good",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Group",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Guard",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Hard",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Hi",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "i",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Insta",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Intelli",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Kill",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Know",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Lie",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Life",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Line",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Map",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Marcus",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Mass",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Master",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Matics",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Max",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Mega",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Metal",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Multi",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Naut",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Nav",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Neo",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Net",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Nex",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Night",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "No",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Off",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Oil",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "On",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Omni",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Panic",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Pay",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "People",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Pix",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Plus",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Port",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Power",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Pro",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Pulse",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Quad",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Quick",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Rapid",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Rig",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Road",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Rock",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Safe",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Sat",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Save",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Score",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Screen",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Sense",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Sensor",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Shift",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Sight",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Single",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Skill",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Sky",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Slick",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Slow",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Smash",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Snare",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Snatch",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Soft",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Source",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Spam",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Speed",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Spin",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Stop",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Stopper",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Strong",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Super",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Switch",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Tag",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Tax",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Team",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Tech",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Teen",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Tele",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Temp",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Text",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Theft",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Think",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Time",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Top",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Total",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Total",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Track",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Trail",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Traq",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Trax",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Tron",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Tronix",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Truth",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Try",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Turbo",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Ultra",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Up",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Vault",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "View",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Ware",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Watch",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Way",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Web",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Wire",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Work",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "World",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Wow",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Yes",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Zone",
+    "left": true,
+    "right": false
+  }
+]
