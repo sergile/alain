@@ -130,4 +130,4 @@ ISC © Contributors
 
 ## Disclaimer
 
-This module was created for fun and should not be taken seriously. ✌
+This module was created for fun but should definitely be taken seriously. ✌
