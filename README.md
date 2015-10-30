@@ -2,6 +2,8 @@
 
 > Need a product name? Ask alain!
 
+![PumpkAlain](https://cloud.githubusercontent.com/assets/14964819/10855901/9b14b024-7f1a-11e5-8c20-4b994e4932fb.jpg "We'll call it...")
+
 Coming up with good product names that are marketable, unique, and memorable is
 hard. Let alain help!
 
