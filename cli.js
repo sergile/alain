@@ -13,7 +13,7 @@ var argv = yargs
   .usage(
     chalk.magenta(figlet.textSync('alain', 'Univers')) +
     '\nNeed a product name? Ask ' + chalk.magenta('alain') + '!\n' +
-    '\nUsage: $0 [options]'
+    '\nUsage: alain [options]'
   )
   .option('e', {
     alias: 'exactly',
@@ -54,10 +54,10 @@ var argv = yargs
   })
   .help('h').alias('h', 'help')
   .version(require('./package.json').version, 'v').alias('v', 'version')
-  .example('$0', 'Prints one product name and done')
-  .example('$0 -e 10', 'Prints ten product names, one second apart')
-  .example('$0 -n5 -x20 -i2000', 'Prints between 5 and 20 product names, 2 seconds apart')
-  .example('$0 -fm', 'Perpetually prints a new name on separate lines')
+  .example('alain', 'Prints one product name and done')
+  .example('alain -e 10', 'Prints ten product names, one second apart')
+  .example('alain -n5 -x20 -i2000', 'Prints between 5 and 20 product names, 2 seconds apart')
+  .example('alain -fm', 'Perpetually prints a new name on separate lines')
   .argv
 
 var uniqueRandomArray = require('unique-random-array')
