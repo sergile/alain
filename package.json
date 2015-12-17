@@ -35,11 +35,11 @@
     "random-int": "^1.0.0",
     "unique-random-array": "^1.0.0",
     "yargonaut": "^1.1.2",
-    "yargs": "^3.29.0"
+    "yargs": "^3.31.0"
   },
   "devDependencies": {
     "jsonfile": "^2.2.3",
-    "linebyline": "^1.1.0",
-    "standard": "^5.3.1"
+    "linebyline": "^1.2.1",
+    "standard": "^5.4.1"
   }
 }
