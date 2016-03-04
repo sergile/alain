@@ -52,8 +52,8 @@ var argv = yargs
     describe: 'Names only (implies multline and colorless)',
     type: 'boolean'
   })
-  .help('h').alias('h', 'help')
-  .version(require('./package.json').version, 'v').alias('v', 'version')
+  .help().alias('h', 'help')
+  .version().alias('v', 'version')
   .example('alain', 'Prints one product name and done')
   .example('alain -e 10', 'Prints ten product names, one second apart')
   .example('alain -n5 -x20 -i2000', 'Prints between 5 and 20 product names, 2 seconds apart')
