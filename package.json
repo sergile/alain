@@ -6,6 +6,11 @@
   "bin": {
     "alain": "cli.js"
   },
+  "files": [
+    "cli.js",
+    "index.js",
+    "words.json"
+  ],
   "scripts": {
     "test": "standard"
   },
