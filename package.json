@@ -12,7 +12,8 @@
     "words.json"
   ],
   "scripts": {
-    "test": "standard"
+    "test": "standard",
+    "release": "standard-version"
   },
   "repository": {
     "type": "git",
@@ -45,6 +46,7 @@
   "devDependencies": {
     "jsonfile": "^2.2.3",
     "linebyline": "^1.2.1",
-    "standard": "^5.4.1"
+    "standard": "^5.4.1",
+    "standard-version": "^2.1.2"
   }
 }
