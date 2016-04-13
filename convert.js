@@ -19,7 +19,9 @@ linebyline('./names.csv')
     console.error(err)
   })
   .on('close', function () {
-    // console.dir(words)
+    var numLeft = words.filter(w => { return w.left }).length
+    var numRight = words.filter(w => { return w.right }).length
+    console.log('%d left words x %d right words = %d total product names', numLeft, numRight, numLeft * numRight)
     process.stdout.write('writing json file: ')
     jsonfile.writeFile('words.json', words, { spaces: 2 }, function (err) {
       if (err) process.stdout.write('error\n' + err)

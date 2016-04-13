@@ -1,5 +1,20 @@
 [
   {
+    "word": "acity",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Activ",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Adapt",
+    "left": true,
+    "right": true
+  },
+  {
     "word": "Agile",
     "left": true,
     "right": false
@@ -10,9 +25,49 @@
     "right": true
   },
   {
+    "word": "All",
+    "left": true,
+    "right": true
+  },
+  {
     "word": "Alpha",
     "left": true,
     "right": false
+  },
+  {
+    "word": "Always",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Amazi",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Amp",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "App",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Arch",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Area",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Array",
+    "left": true,
+    "right": true
   },
   {
     "word": "Asset",
@@ -20,8 +75,33 @@
     "right": false
   },
   {
+    "word": "Assimi",
+    "left": true,
+    "right": false
+  },
+  {
     "word": "Assist",
     "left": false,
+    "right": true
+  },
+  {
+    "word": "Auto",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Awesome",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Back",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Balance",
+    "left": true,
     "right": true
   },
   {
@@ -50,6 +130,11 @@
     "right": true
   },
   {
+    "word": "Biznazz",
+    "left": true,
+    "right": true
+  },
+  {
     "word": "Books",
     "left": false,
     "right": true
@@ -60,9 +145,19 @@
     "right": true
   },
   {
+    "word": "Bot",
+    "left": false,
+    "right": true
+  },
+  {
     "word": "Bread",
     "left": true,
     "right": false
+  },
+  {
+    "word": "Business",
+    "left": true,
+    "right": true
   },
   {
     "word": "Buster",
@@ -95,6 +190,11 @@
     "right": true
   },
   {
+    "word": "Cap",
+    "left": true,
+    "right": true
+  },
+  {
     "word": "Cash",
     "left": true,
     "right": true
@@ -110,9 +210,59 @@
     "right": true
   },
   {
+    "word": "Center",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Centri",
+    "left": true,
+    "right": false
+  },
+  {
     "word": "Certa",
     "left": true,
     "right": false
+  },
+  {
+    "word": "Choice",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Chroma",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Chromatic",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Circuit",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Clean",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Clear",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Click",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Client",
+    "left": true,
+    "right": true
   },
   {
     "word": "Cloud",
@@ -125,9 +275,24 @@
     "right": true
   },
   {
+    "word": "Compass",
+    "left": true,
+    "right": true
+  },
+  {
     "word": "Compu",
     "left": true,
     "right": false
+  },
+  {
+    "word": "Con",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Concept",
+    "left": false,
+    "right": true
   },
   {
     "word": "Control",
@@ -140,19 +305,24 @@
     "right": false
   },
   {
-    "word": "Con",
-    "left": false,
-    "right": true
-  },
-  {
     "word": "Cor",
     "left": false,
     "right": true
   },
   {
-    "word": "Craft",
+    "word": "Corpo",
     "left": true,
     "right": false
+  },
+  {
+    "word": "Craft",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Credit",
+    "left": true,
+    "right": true
   },
   {
     "word": "Crime",
@@ -160,8 +330,28 @@
     "right": true
   },
   {
+    "word": "Cross",
+    "left": true,
+    "right": false
+  },
+  {
     "word": "Crumb",
     "left": false,
+    "right": true
+  },
+  {
+    "word": "Current",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Custom",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Customer",
+    "left": true,
     "right": true
   },
   {
@@ -186,6 +376,36 @@
   },
   {
     "word": "Day",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Demand",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Desk",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Digi",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Discrete",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Distro",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Do",
     "left": true,
     "right": true
   },
@@ -225,9 +445,34 @@
     "right": false
   },
   {
+    "word": "Edge",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Enterprise",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Ever",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Exec",
+    "left": true,
+    "right": true
+  },
+  {
     "word": "Extra",
     "left": true,
     "right": false
+  },
+  {
+    "word": "Face",
+    "left": true,
+    "right": true
   },
   {
     "word": "Fair",
@@ -255,12 +500,32 @@
     "right": true
   },
   {
+    "word": "Fore",
+    "left": true,
+    "right": false
+  },
+  {
     "word": "Fire",
     "left": true,
     "right": true
   },
   {
+    "word": "Firm",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "First",
+    "left": true,
+    "right": true
+  },
+  {
     "word": "Fix",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Fizzle",
     "left": true,
     "right": true
   },
@@ -280,14 +545,44 @@
     "right": false
   },
   {
+    "word": "Focus",
+    "left": true,
+    "right": true
+  },
+  {
     "word": "Form",
     "left": false,
+    "right": true
+  },
+  {
+    "word": "Frame",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Front",
+    "left": true,
     "right": true
   },
   {
     "word": "Fuel",
     "left": true,
     "right": true
+  },
+  {
+    "word": "Full",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Future",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Gamma",
+    "left": true,
+    "right": false
   },
   {
     "word": "Gate",
@@ -297,6 +592,11 @@
   {
     "word": "Gear",
     "left": false,
+    "right": true
+  },
+  {
+    "word": "Gen",
+    "left": true,
     "right": true
   },
   {
@@ -316,6 +616,21 @@
   },
   {
     "word": "Good",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Gram",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Graph",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Ground",
     "left": true,
     "right": true
   },
@@ -340,7 +655,42 @@
     "right": false
   },
   {
+    "word": "Hive",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Hub",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Hybrid",
+    "left": true,
+    "right": false
+  },
+  {
     "word": "i",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Incre",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Incredi",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Info",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Inner",
     "left": true,
     "right": false
   },
@@ -355,6 +705,26 @@
     "right": false
   },
   {
+    "word": "Integra",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Inter",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Intra",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Intui",
+    "left": true,
+    "right": false
+  },
+  {
     "word": "Kill",
     "left": true,
     "right": false
@@ -363,6 +733,21 @@
     "word": "Know",
     "left": true,
     "right": false
+  },
+  {
+    "word": "Lang",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Lapse",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Lead",
+    "left": true,
+    "right": true
   },
   {
     "word": "Lie",
@@ -380,6 +765,41 @@
     "right": true
   },
   {
+    "word": "Live",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Local",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Logi",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "ly",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "lytics",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Magic",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Magni",
+    "left": true,
+    "right": false
+  },
+  {
     "word": "Map",
     "left": true,
     "right": true
@@ -388,6 +808,11 @@
     "word": "Marcus",
     "left": true,
     "right": false
+  },
+  {
+    "word": "Mark",
+    "left": true,
+    "right": true
   },
   {
     "word": "Mass",
@@ -410,14 +835,69 @@
     "right": true
   },
   {
+    "word": "Maxim",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Med",
+    "left": true,
+    "right": true
+  },
+  {
     "word": "Mega",
     "left": true,
     "right": false
   },
   {
+    "word": "Mental",
+    "left": true,
+    "right": true
+  },
+  {
     "word": "Metal",
     "left": true,
     "right": false
+  },
+  {
+    "word": "Method",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Metric",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Micro",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Mighty",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Mind",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Minute",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Mod",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Monitor",
+    "left": false,
+    "right": true
   },
   {
     "word": "Multi",
@@ -431,7 +911,7 @@
   },
   {
     "word": "Nav",
-    "left": false,
+    "left": true,
     "right": true
   },
   {
@@ -443,6 +923,16 @@
     "word": "Net",
     "left": true,
     "right": true
+  },
+  {
+    "word": "Neural",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Never",
+    "left": true,
+    "right": false
   },
   {
     "word": "Nex",
@@ -460,6 +950,21 @@
     "right": false
   },
   {
+    "word": "Noise",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Nunya",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Object",
+    "left": false,
+    "right": true
+  },
+  {
     "word": "Off",
     "left": true,
     "right": true
@@ -470,8 +975,8 @@
     "right": true
   },
   {
-    "word": "On",
-    "left": true,
+    "word": "ology",
+    "left": false,
     "right": true
   },
   {
@@ -480,7 +985,52 @@
     "right": false
   },
   {
+    "word": "On",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "One",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Open",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Opti",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Org",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Pad",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Pal",
+    "left": false,
+    "right": true
+  },
+  {
     "word": "Panic",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Para",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Parallel",
     "left": true,
     "right": true
   },
@@ -495,12 +1045,32 @@
     "right": false
   },
   {
+    "word": "Person",
+    "left": true,
+    "right": false
+  },
+  {
     "word": "Pix",
     "left": false,
     "right": true
   },
   {
+    "word": "Platform",
+    "left": true,
+    "right": true
+  },
+  {
     "word": "Plus",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Pod",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Pop",
     "left": true,
     "right": true
   },
@@ -520,8 +1090,38 @@
     "right": true
   },
   {
+    "word": "Proto",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Proxi",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Proxy",
+    "left": false,
+    "right": true
+  },
+  {
     "word": "Pulse",
     "left": true,
+    "right": true
+  },
+  {
+    "word": "Purge",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Put",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Qi",
+    "left": false,
     "right": true
   },
   {
@@ -530,7 +1130,27 @@
     "right": true
   },
   {
+    "word": "Quali",
+    "left": true,
+    "right": false
+  },
+  {
     "word": "Quick",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "r",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Radical",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Range",
     "left": true,
     "right": true
   },
@@ -538,6 +1158,31 @@
     "word": "Rapid",
     "left": true,
     "right": false
+  },
+  {
+    "word": "Ratio",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Ready",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Recipro",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Reduce",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Remote",
+    "left": true,
+    "right": true
   },
   {
     "word": "Rig",
@@ -555,13 +1200,28 @@
     "right": false
   },
   {
+    "word": "Root",
+    "left": true,
+    "right": true
+  },
+  {
     "word": "Safe",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Sage",
     "left": true,
     "right": true
   },
   {
     "word": "Sat",
     "left": true,
+    "right": true
+  },
+  {
+    "word": "Sauce",
+    "left": false,
     "right": true
   },
   {
@@ -580,12 +1240,27 @@
     "right": true
   },
   {
+    "word": "Securi",
+    "left": true,
+    "right": false
+  },
+  {
     "word": "Sense",
     "left": false,
     "right": true
   },
   {
     "word": "Sensor",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Service",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Set",
     "left": false,
     "right": true
   },
@@ -600,9 +1275,29 @@
     "right": true
   },
   {
+    "word": "Sigma",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Signal",
+    "left": true,
+    "right": true
+  },
+  {
     "word": "Single",
     "left": true,
     "right": false
+  },
+  {
+    "word": "Site",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Size",
+    "left": true,
+    "right": true
   },
   {
     "word": "Skill",
@@ -645,6 +1340,16 @@
     "right": true
   },
   {
+    "word": "Solution",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Sound",
+    "left": true,
+    "right": true
+  },
+  {
     "word": "Source",
     "left": false,
     "right": true
@@ -675,9 +1380,29 @@
     "right": true
   },
   {
+    "word": "Strata",
+    "left": true,
+    "right": false
+  },
+  {
     "word": "Strong",
     "left": true,
     "right": true
+  },
+  {
+    "word": "Struct",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Stuff",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Sub",
+    "left": true,
+    "right": false
   },
   {
     "word": "Super",
@@ -690,7 +1415,27 @@
     "right": true
   },
   {
+    "word": "Sync",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Synergy",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "System",
+    "left": true,
+    "right": true
+  },
+  {
     "word": "Tag",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "tastic",
     "left": false,
     "right": true
   },
@@ -745,12 +1490,17 @@
     "right": true
   },
   {
-    "word": "Top",
-    "left": true,
-    "right": false
+    "word": "tive",
+    "left": false,
+    "right": true
   },
   {
-    "word": "Total",
+    "word": "Tool",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Top",
     "left": true,
     "right": false
   },
@@ -768,6 +1518,11 @@
     "word": "Trail",
     "left": true,
     "right": true
+  },
+  {
+    "word": "Trans",
+    "left": true,
+    "right": false
   },
   {
     "word": "Traq",
@@ -790,6 +1545,11 @@
     "right": true
   },
   {
+    "word": "Trust",
+    "left": false,
+    "right": true
+  },
+  {
     "word": "Truth",
     "left": true,
     "right": true
@@ -805,12 +1565,47 @@
     "right": true
   },
   {
+    "word": "Type",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Uber",
+    "left": true,
+    "right": false
+  },
+  {
     "word": "Ultra",
     "left": true,
     "right": false
   },
   {
+    "word": "Uni",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Unit",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Universal",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Universe",
+    "left": false,
+    "right": true
+  },
+  {
     "word": "Up",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "User",
     "left": true,
     "right": true
   },
@@ -820,8 +1615,18 @@
     "right": true
   },
   {
+    "word": "Value",
+    "left": true,
+    "right": true
+  },
+  {
     "word": "View",
     "left": false,
+    "right": true
+  },
+  {
+    "word": "Vision",
+    "left": true,
     "right": true
   },
   {
@@ -840,13 +1645,33 @@
     "right": true
   },
   {
+    "word": "Wear",
+    "left": true,
+    "right": true
+  },
+  {
     "word": "Web",
+    "left": true,
+    "right": true
+  },
+  {
+    "word": "Well",
+    "left": false,
+    "right": true
+  },
+  {
+    "word": "Wide",
     "left": true,
     "right": true
   },
   {
     "word": "Wire",
     "left": false,
+    "right": true
+  },
+  {
+    "word": "Wireless",
+    "left": true,
     "right": true
   },
   {
@@ -866,6 +1691,11 @@
   },
   {
     "word": "Yes",
+    "left": true,
+    "right": false
+  },
+  {
+    "word": "Zero",
     "left": true,
     "right": false
   },
