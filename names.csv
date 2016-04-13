@@ -46,6 +46,7 @@ Certa,0
 Choice,
 Chroma,0
 Chromatic,1
+Circle,
 Circuit,
 Clean,
 Clear,
@@ -275,6 +276,7 @@ Spin,
 Stop,
 Stopper,1
 Strata,0
+Stream,
 Strong,
 Struct,
 Stuff,1
@@ -320,6 +322,7 @@ Universal,0
 Universe,1
 Up,
 User,
+Vari,0
 Vault,
 Value,
 View,1

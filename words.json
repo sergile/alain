@@ -240,6 +240,11 @@
     "right": true
   },
   {
+    "word": "Circle",
+    "left": true,
+    "right": true
+  },
+  {
     "word": "Circuit",
     "left": true,
     "right": true
@@ -1385,6 +1390,11 @@
     "right": false
   },
   {
+    "word": "Stream",
+    "left": true,
+    "right": true
+  },
+  {
     "word": "Strong",
     "left": true,
     "right": true
@@ -1608,6 +1618,11 @@
     "word": "User",
     "left": true,
     "right": true
+  },
+  {
+    "word": "Vari",
+    "left": true,
+    "right": false
   },
   {
     "word": "Vault",
