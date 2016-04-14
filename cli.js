@@ -82,8 +82,9 @@ function nextName () {
     if (argv.f || names.length) {
       if (!argv.b) process.stdout.write('... ')
       nextName()
+    } else {
+      console.log()
     }
-    else console.log()
   }, argv.interval)
 }
 
