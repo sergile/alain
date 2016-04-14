@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nexdrew/alain.git"
+    "url": "git+https://github.com/sergile/alain.git"
   },
   "keywords": [
     "app",
@@ -33,9 +33,9 @@
   "author": "nexdrew",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nexdrew/alain/issues"
+    "url": "https://github.com/sergile/alain/issues"
   },
-  "homepage": "https://github.com/nexdrew/alain#readme",
+  "homepage": "https://github.com/sergile/alain#readme",
   "dependencies": {
     "es6-promise": "^3.0.2",
     "random-int": "^1.0.0",
