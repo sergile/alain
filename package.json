@@ -41,12 +41,12 @@
     "random-int": "^1.0.0",
     "unique-random-array": "^1.0.0",
     "yargonaut": "^1.1.2",
-    "yargs": "^4.6.0"
+    "yargs": "^4.7.0"
   },
   "devDependencies": {
-    "jsonfile": "^2.2.3",
+    "jsonfile": "^2.3.0",
     "linebyline": "^1.2.1",
-    "standard": "^6.0.8",
-    "standard-version": "^2.1.2"
+    "standard": "^7.0.1",
+    "standard-version": "^2.2.1"
   }
 }
