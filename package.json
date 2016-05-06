@@ -6,12 +6,18 @@
   "bin": {
     "alain": "cli.js"
   },
+  "files": [
+    "cli.js",
+    "index.js",
+    "words.json"
+  ],
   "scripts": {
-    "test": "standard"
+    "test": "standard",
+    "release": "standard-version"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nexdrew/alain.git"
+    "url": "git+https://github.com/sergile/alain.git"
   },
   "keywords": [
     "app",
@@ -27,19 +33,20 @@
   "author": "nexdrew",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nexdrew/alain/issues"
+    "url": "https://github.com/sergile/alain/issues"
   },
-  "homepage": "https://github.com/nexdrew/alain#readme",
+  "homepage": "https://github.com/sergile/alain#readme",
   "dependencies": {
     "es6-promise": "^3.0.2",
     "random-int": "^1.0.0",
     "unique-random-array": "^1.0.0",
     "yargonaut": "^1.1.2",
-    "yargs": "^4.2.0"
+    "yargs": "^4.7.0"
   },
   "devDependencies": {
-    "jsonfile": "^2.2.3",
+    "jsonfile": "^2.3.0",
     "linebyline": "^1.2.1",
-    "standard": "^5.4.1"
+    "standard": "^7.0.1",
+    "standard-version": "^2.2.1"
   }
 }
