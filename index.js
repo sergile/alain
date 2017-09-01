@@ -1,19 +1,20 @@
-var uniqueRandomArray = require('unique-random-array')
-var randomInt = require('random-int')
-var Promise = require('es6-promise').Promise
+'use strict'
 
-var words = require('./words.json')
-var leftWords = filterWords('left')
-var rightWords = filterWords('right')
-var randomLeft = uniqueRandomArray(leftWords)
-var randomRight = uniqueRandomArray(rightWords)
-var defaultOpts = { exactly: 1 }
+const uniqueRandomArray = require('unique-random-array')
+const randomInt = require('random-int')
+
+const words = require('./words.json')
+const leftWords = filterWords('left')
+const rightWords = filterWords('right')
+const randomLeft = uniqueRandomArray(leftWords)
+const randomRight = uniqueRandomArray(rightWords)
+const defaultOpts = { exactly: 1 }
 
 module.exports = alain
 
 function alain (opts, cb) {
   if (typeof opts === 'function') {
-    var switchedOpts = cb
+    const switchedOpts = cb
     cb = opts
     opts = switchedOpts || defaultOpts
   }
@@ -22,7 +23,7 @@ function alain (opts, cb) {
   if (typeof cb === 'function') {
     // could use process.nextTick instead,
     // but setImmediate can be canceled via return value
-    return setImmediate(function () {
+    return setImmediate(() => {
       try {
         return cb(null, alain.sync(opts))
       } catch (err) {
@@ -32,7 +33,7 @@ function alain (opts, cb) {
   }
 
   // promise
-  return new Promise(function (resolve, reject) {
+  return new Promise((resolve, reject) => {
     try {
       return resolve(alain.sync(opts))
     } catch (err) {
@@ -41,48 +42,44 @@ function alain (opts, cb) {
   })
 }
 
-alain.sync = function (opts) {
+alain.sync = opts => {
   opts = opts || defaultOpts
-  var exactly = parseInt(opts.exactly, 10)
+  const exactly = parseInt(opts.exactly, 10)
 
   // return string by default
   if (exactly === 1) return randomName(opts.object)
 
   // use array, either exactly or b/w min and max
-  var array
+  let array
   if (exactly) {
     array = Array(exactly)
   } else if (opts.min || opts.max) {
-    var min = opts.min || 1
+    const min = opts.min || 1
     array = Array(randomInt(min, opts.max || min))
   } else {
     array = Array(1)
   }
-  for (var i = 0; i < array.length; i++) {
+  for (let i = 0; i < array.length; i++) {
     array[i] = randomName(opts.object)
   }
   if (opts.join) return array.join(opts.join)
   return array
 }
 
-alain.leftWords = function () {
+alain.leftWords = () => {
   return leftWords
 }
 
-alain.rightWords = function () {
+alain.rightWords = () => {
   return rightWords
 }
 
 function randomName (objWanted) {
-  var left = randomLeft()
-  var right = randomRight()
+  const left = randomLeft()
+  const right = randomRight()
   return objWanted ? { left: left, right: right } : left + right
 }
 
 function filterWords (prop) {
-  return words.filter(function (wordObj) {
-    return wordObj[prop] === true
-  }).map(function (wordObj) {
-    return wordObj.word
-  })
+  return words.filter(wordObj => wordObj[prop] === true).map(wordObj => wordObj.word)
 }

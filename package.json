@@ -37,16 +37,16 @@
   },
   "homepage": "https://github.com/sergile/alain#readme",
   "dependencies": {
-    "es6-promise": "^3.0.2",
+    "chalk": "^2.1.0",
+    "figlet": "^1.2.0",
     "random-int": "^1.0.0",
-    "unique-random-array": "^1.0.0",
-    "yargonaut": "^1.1.2",
-    "yargs": "^4.7.0"
+    "sywac": "^1.1.0",
+    "unique-random-array": "^1.0.0"
   },
   "devDependencies": {
-    "jsonfile": "^2.3.0",
-    "linebyline": "^1.2.1",
-    "standard": "^7.0.1",
-    "standard-version": "^2.2.1"
+    "jsonfile": "^3.0.1",
+    "linebyline": "^1.3.0",
+    "standard": "^10.0.3",
+    "standard-version": "^4.2.0"
   }
 }
