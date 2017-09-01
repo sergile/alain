@@ -35,31 +35,22 @@ var alain = require('alain')
 
 ### Ask alain for a product name
 
-```
-alain
-```
-
-```
+```console
+$ alain
 We'll call it... ProGear
 ```
 
 ### Ask for 5 product names
 
-```
-alain --exactly 5
-```
-
-```
+```console
+$ alain --exactly 5
 We'll call it... NexSpin... TaxThink... WatchWeb... TeamSlick... WorkSat
 ```
 
 ### Let alain choose between 2 and 10 names
 
-```
-alain --min 2 --max 10
-```
-
-```
+```console
+$ alain --min 2 --max 10
 We'll call it... MapAlert... InstaFleet... PayTax... SafeAlert
 ```
 
@@ -67,11 +58,8 @@ We'll call it... MapAlert... InstaFleet... PayTax... SafeAlert
 
 Kill with Ctrl C
 
-```
-alain --forever --brief --interval 50 | grep Best
-```
-
-```
+```console
+$ alain --forever --brief --interval 50 | grep Best
 BestGear
 DataBest
 NexBest
@@ -79,8 +67,8 @@ NexBest
 
 ### Get CLI help content
 
-```
-alain --help
+```console
+$ alain --help
 ```
 
 ## API
